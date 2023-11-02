@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28F712CC2AF4239900F24752 /* CGVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F712CB2AF4239900F24752 /* CGVideoPlayer.swift */; };
 		29D0BA460904E65D984F8C70 /* Pods_UIViewPlayerTesting_UIViewPlayerTestingUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7366A1E9AC5147AF35750056 /* Pods_UIViewPlayerTesting_UIViewPlayerTestingUITests.framework */; };
 		63023F839B32B9656ADFD929 /* Pods_UIViewPlayerTesting.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DA14BDBEC5E9F9DDF27976B /* Pods_UIViewPlayerTesting.framework */; };
 		A5F66447F94FD8BFBA801E65 /* Pods_UIViewPlayerTestingTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE61EAA1C076FDDF3492402D /* Pods_UIViewPlayerTestingTests.framework */; };
@@ -42,6 +43,7 @@
 /* Begin PBXFileReference section */
 		11EC815D4D456803D2973008 /* Pods-UIViewPlayerTestingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIViewPlayerTestingTests.release.xcconfig"; path = "Target Support Files/Pods-UIViewPlayerTestingTests/Pods-UIViewPlayerTestingTests.release.xcconfig"; sourceTree = "<group>"; };
 		1E61533289362009473752F1 /* Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests.release.xcconfig"; path = "Target Support Files/Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests/Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests.release.xcconfig"; sourceTree = "<group>"; };
+		28F712CB2AF4239900F24752 /* CGVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGVideoPlayer.swift; sourceTree = "<group>"; };
 		2D573519FFB569198C9F16D5 /* Pods-UIViewPlayerTesting.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIViewPlayerTesting.debug.xcconfig"; path = "Target Support Files/Pods-UIViewPlayerTesting/Pods-UIViewPlayerTesting.debug.xcconfig"; sourceTree = "<group>"; };
 		65291D1DE4EDB56FB5798487 /* Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests.debug.xcconfig"; path = "Target Support Files/Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests/Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		7366A1E9AC5147AF35750056 /* Pods_UIViewPlayerTesting_UIViewPlayerTestingUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UIViewPlayerTesting_UIViewPlayerTestingUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,7 +105,6 @@
 				ABCBC37F89C6A739B1AEAC75 /* Pods-UIViewPlayerTestingTests.debug.xcconfig */,
 				11EC815D4D456803D2973008 /* Pods-UIViewPlayerTestingTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -150,6 +151,7 @@
 				FD2BD8922AF2617500483F3E /* LaunchScreen.storyboard */,
 				FD2BD8952AF2617500483F3E /* Info.plist */,
 				FD2BD8B72AF261A400483F3E /* PiPMediaPlayer.swift */,
+				28F712CB2AF4239900F24752 /* CGVideoPlayer.swift */,
 			);
 			path = UIViewPlayerTesting;
 			sourceTree = "<group>";
@@ -430,6 +432,7 @@
 			files = (
 				FD2BD88C2AF2617300483F3E /* ViewController.swift in Sources */,
 				FD2BD8B82AF261A400483F3E /* PiPMediaPlayer.swift in Sources */,
+				28F712CC2AF4239900F24752 /* CGVideoPlayer.swift in Sources */,
 				FD2BD8882AF2617300483F3E /* AppDelegate.swift in Sources */,
 				FD2BD88A2AF2617300483F3E /* SceneDelegate.swift in Sources */,
 			);
