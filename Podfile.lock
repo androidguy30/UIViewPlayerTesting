@@ -1,0 +1,16 @@
+PODS:
+  - EVPlayer (1.0.0)
+
+DEPENDENCIES:
+  - EVPlayer
+
+SPEC REPOS:
+  trunk:
+    - EVPlayer
+
+SPEC CHECKSUMS:
+  EVPlayer: d2ae33c2ee1b9e25aa331da7b135dbb0c9044efb
+
+PODFILE CHECKSUM: d69d73cadb1787f1b1e2ae1c594c1245641ead13
+
+COCOAPODS: 1.12.0

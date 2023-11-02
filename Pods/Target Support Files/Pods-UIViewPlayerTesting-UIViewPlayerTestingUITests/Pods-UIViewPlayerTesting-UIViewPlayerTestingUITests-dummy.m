@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_UIViewPlayerTesting_UIViewPlayerTestingUITests : NSObject
+@end
+@implementation PodsDummy_Pods_UIViewPlayerTesting_UIViewPlayerTestingUITests
+@end

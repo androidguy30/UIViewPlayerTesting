@@ -1,0 +1,6 @@
+framework module Pods_UIViewPlayerTesting_UIViewPlayerTestingUITests {
+  umbrella header "Pods-UIViewPlayerTesting-UIViewPlayerTestingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
